@@ -27,7 +27,7 @@ A fully responsive e-commerce website built with HTML, CSS, and JavaScript. With
 1. **Clone the repository**
    ```
    bash
-   [git clone https://github.com/yourusername/E-CommerceWebsite.git](https://github.com/fnun-pixel-test/sample-website.git)
+   git clone https://github.com/yourusername/E-CommerceWebsite.git
    cd E-CommerceWebsite
    ```
 
